@@ -1,0 +1,52 @@
+
+
+				TODO
+
+
+
+
+fräs-laser satz     ---	anpassung rohrhalter -aussparung 2mm für kieferleiste
+
+		millimetertiefe (3 gg 5) in extraspanten!
+
+		rumpfspanten-biegung zur fläche
+
+Einzelne Spanten als DXF speichern und ordnen
+
+
+*********************************************************************
+
+Materialliste
+
+
+holz pro flieger:
+
+balsabrett 1mm 			4x(2x weich+2xhart)
+balsabrett 2mm			1x
+sperrholz 3mm 500x300		1x
+balsaleiste 10x5mm			2x
+balsaleiste 5x5mm			1x
+kiefer/balsa leiste 2x2		10x
+kiefer/balsa leiste 5x2		1x
+
+weiteres:
+
+filament/3d druck			4x rohr/höhenruder halter 
+cfk rohr 8mm			3x
+servos digital			4(5)x micro lbh:=
+flügelband				1 rolle 
+scharniere				4xgross 6xklein
+anlenkungen			5x
+draht (d=  mm)			50cm
+
+
+werkstoffe
+
+lötzinn				nur das beste-mit blei!!1
+sekundenkleber			hobbyking grosspackung
+holzkleber				weissleim
+cutter
+metallineal
+heisskleber
+5min epoxy			hobbyking 99cent
+
